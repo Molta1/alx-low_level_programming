@@ -5,10 +5,11 @@
 #include <stdio.h>
 
 
-/*
- * main - checks if positive, zero or negative around the question
+/**
+ * main - entry point
  *
- * return 0 after checking
+ * Return: Always 0 (Succes)
+ * Description: checks if positive, zero or negative around the questionm
  */
 int main(void)
 {
