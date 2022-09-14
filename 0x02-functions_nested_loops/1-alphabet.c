@@ -4,7 +4,7 @@
  * Description: prints alphabet in lowercase
  * Return: 0 (Success)
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char c = 'a';
 	int i;
