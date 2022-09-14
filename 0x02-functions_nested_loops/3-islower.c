@@ -1,7 +1,6 @@
 #include "main."
 /**
- * main - Entry point 
- * Description: checks characters lower case or not
+ * _islower - checks whether or not a character is lowercase
  *Return: 1 if it is lowercase or 0 otherwise
  */
 int _islower(int c)
