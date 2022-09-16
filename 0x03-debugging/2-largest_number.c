@@ -4,6 +4,7 @@
  * @a: first integer
  * @b: second integer
  * @c: third integer
+ * largestNumber: the lagest integer
  * Return: largest number
  */
 int largest_number(int a, int b, int c, int largestNumber)
